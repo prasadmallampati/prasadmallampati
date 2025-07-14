@@ -83,7 +83,8 @@ Scraped Instagram data and visualized key engagement trends using **BeautifulSou
 ## 📬 Contact Me
 📧 **Email:** prasadmallampati16@gmail.com  
 📱 **Phone:** +91 6303140316  
-🔗 [LinkedIn] https://www.linkedin.com/in/prasadmallampati2002/ | [GitHub]  
+🔗 [LinkedIn] https://www.linkedin.com/in/prasadmallampati2002/
+[GitHub]   https://github.com/prasadmallampati/
 
 
 

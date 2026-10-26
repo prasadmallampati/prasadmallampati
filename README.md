@@ -61,6 +61,10 @@
 <a href="https://github.com/prasadmallampati/PySpark"><img src="https://github-readme-stats.vercel.app/api/pin/?username=prasadmallampati&repo=PySpark&theme=tokyonight" /></a>
 </p>
 
+<p align="center">
+<sub>🔒 Also building <b>Embryo Quality Prediction</b> — a CNN-based deep learning classifier for embryo staging/grading, deployed via Streamlit with secure login and real-time prediction to support IVF decision-making. <i>(Private repo — details on request.)</i></sub>
+</p>
+
 ---
 
 ### 📊 GitHub Stats

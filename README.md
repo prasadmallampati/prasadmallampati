@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Thirumala Prasad Mallampati 👋</h1>
-<h3 align="center">Full Stack Software Engineer Intern @ GamaQ Software Solutions | Data Science & ML</h3>
+<h3 align="center">Full Stack Software Engineer Intern @ GamaQ Software Solutions |</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer+Intern+%40+GamaQ;Machine+Learning+%2B+Data+Science;Building+AI-powered%2C+data-driven+products" alt="Typing SVG" />
@@ -98,5 +98,5 @@
 ---
 
 <p align="center">
-<i>Let's build something impactful together — reach out via <a href="mailto:prasadmallampati16@gmail.com">email</a> or <a href="https://www.linkedin.com/in/prasadmallampati2002/">LinkedIn</a>.</i>
+<i>Let's build something impactful together — reach out via <a href="mailto:prasadmallampati16@gmail.com">email</a> or <a href="https://www.linkedin.com/in/prasadmallampatii/">LinkedIn</a>.</i>
 </p>

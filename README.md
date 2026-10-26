@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Thirumala Prasad Mallampati
 
-🎓 **Recent Computer Science graduate** passionate about building smart, data-driven, and user-friendly software systems.  
+🎓 **Recent Computer Science graduate** passionate about building smart, data-driven, and user-friendly software systems.
 💻 I specialize in:
 
 - **Frontend Development** (HTML/CSS, JavaScript, Python)
@@ -11,10 +11,10 @@
 
 ---
 
-## 🚀 I’m Currently Open To:
-- 📊 Freelance & contract-based work  
-- 💼 Entry-level roles in software or data domains  
-- 🛠️ Collaborations on tech projects and startups  
+## 🚀 I'm Currently Open To:
+- 📊 Freelance & contract-based work
+- 💼 Entry-level roles in software or data domains
+- 🛠️ Collaborations on tech projects and startups
 
 ---
 
@@ -28,45 +28,36 @@
 
 ## 🛠️ Technical Skills
 
-**Languages:**  
-`Python`, `C++`, `JavaScript`, `C`  
+**Languages:**
+`Python`, `C++`, `JavaScript`, `C`
 
-**Frontend:**  
+**Frontend:**
 `HTML`, `CSS`
 
-**Backend:**  
+**Backend:**
 `Python`, `Node.js`
 
-**Databases:**  
+**Databases:**
 `MySQL`, `PostgreSQL`
 
-**Data Tools & Visualization:**  
+**Data Tools & Visualization:**
 `Pandas`, `Seaborn`, `Matplotlib`, `Excel`, `Power BI`, `Tableau`
 
-**Security Tools:**  
+**Security Tools:**
 `Burp Suite`, `OWASP ZAP`
 
-**Frameworks:**  
+**Frameworks:**
 `Flask`, `Streamlit`
 
-**Others:**  
+**Others:**
 `BeautifulSoup`, `Git`
 
 ---
 
-## 🔬 Projects
-
-### 🚧 [Highway Inspection using YOLOv8](https://github.com/prasadmallampati)
-Real-time object detection system for identifying highway defects, reducing inspection time by 40%.
+## 🔬 Featured Projects
 
 ### 🧠 [Medical Image Classifier](https://github.com/prasadmallampati/Image_Recognition_for_Medical_Diagnosis_Advancing_Healthcare_with_Data_Science)
 CNN-based diagnostic tool with a Flask UI for real-time medical image classification.
-
-### ⚡ [Electricity Price Forecasting](https://github.com/prasadmallampati)
-Forecasting electricity price and demand trends using time-series modeling.
-
-### 🍼 [Embryo Prediction (IVF Grading)](https://github.com/prasadmallampati)
-Machine learning model to improve embryo grading consistency in IVF treatments.
 
 ### 💓 [ECG Diagnosis Dashboard](https://github.com/prasadmallampati/Detection_of_Cardiovascular_Diseases_in_ECG_Images_Using_Machine_Learning_and_Deep_Learning_Methods)
 Anomaly detection model for ECG signals with interactive visualizations in Tableau.
@@ -74,45 +65,50 @@ Anomaly detection model for ECG signals with interactive visualizations in Table
 ### 📱 [Instagram Data Analysis](https://github.com/prasadmallampati/instagram_reach_analysis)
 Scraped and visualized Instagram engagement data using Python, BeautifulSoup, and Power BI.
 
+### 🗄️ [SQL Master Plan](https://github.com/prasadmallampati/SQL_MASTER_2026)
+A set of SQL practice queries and exercises covering joins, aggregations, and window functions.
+
+### ⚙️ [PySpark](https://github.com/prasadmallampati/PySpark)
+Distributed data processing and ETL pipelines using Spark SQL, DataFrames, RDDs, and streaming.
+
+### 🚉 [Railway Parking Ticket System](https://github.com/prasadmallampati/RailwayParkingTicket)
+A Flask + SQLite web app for managing railway station parking ticket entries, exits, and admin reporting.
+
 ---
 
 ## 🧑‍💼 Internships
 
-- 🔹 **Machine Learning Intern – Indian Servers**  
-  Built AI chatbots using **BERT**, **GPT**, and **DialogFlow**.
+- 🔹 **Machine Learning Intern – Indian Servers**
+Built AI chatbots using **BERT**, **GPT**, and **DialogFlow**.
 
-- 🔹 **Web Pentester – Indian Servers**  
-  Performed vulnerability assessments using **Burp Suite** and **OWASP ZAP**.
+- 🔹 **Web Pentester – Indian Servers**
+Performed vulnerability assessments using **Burp Suite** and **OWASP ZAP**.
 
-- 🔹 **Data Analyst – Codegnan**  
-  Scraped and analyzed Instagram data using **Python**, **Excel**, and **Power BI**.
+- 🔹 **Data Analyst – Codegnan**
+Scraped and analyzed Instagram data using **Python**, **Excel**, and **Power BI**.
 
 ---
 
 ## 📜 Certifications
 
-- ✅ [Data Science & AI](#)  
-- ✅ [Python Programming](#)  
-- ✅ [SQL for Data Analysis](#)  
-- ✅ [Power BI Analytics](#)  
-- ✅ [AI & Deep Learning Fundamentals](#)  
-
-
+- ✅ Data Science & AI
+- ✅ Python Programming
+- ✅ SQL for Data Analysis
+- ✅ Power BI Analytics
+- ✅ AI & Deep Learning Fundamentals
 
 ## 📬 Contact Me
 
-📧 **Email:** prasadmallampati16@gmail.com  
-📱 **Phone:** +91 6303140316  
-🔗 [**LinkedIn**](https://www.linkedin.com/in/prasadmallampati2002/)  
+📧 **Email:** prasadmallampati16@gmail.com
+🔗 [**LinkedIn**](https://www.linkedin.com/in/prasadmallampati2002/)
 🔗 [**GitHub**](https://github.com/prasadmallampati/)
 
 ---
 
 ## 🤝 I'm currently open to:
 
-- 💼 Freelance Projects  
-- 🤝 Collaborations  
-- 🧑‍💻 Full-Time Entry-Level Roles  
+- 💼 Freelance Projects
+- 🤝 Collaborations
+- 🧑‍💻 Full-Time Entry-Level Roles
 
-> *Let’s build something impactful together!*
-
+> *Let's build something impactful together!*
